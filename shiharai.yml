@@ -1,0 +1,38 @@
+ケーズデンキ: 
+  # https://www.poitan.jp/archives/79267
+  - FamiPay 
+ファミリーマート:
+  # https://www.family.co.jp/services/payment.html
+  - FamiPay
+  - iD
+  - QUICPay
+  - Apple Pay
+  - Edy
+  - WAON
+  - dポイント
+  - 楽天ポイント
+  - Tポイント
+  # 「PiTaPa」は近畿2府4県（大阪府、京都府、兵庫県、奈良県、和歌山県、滋賀県）の全店舗と三重県、愛知県の一部店舗でご利用いただけます。 
+  # https://www.family.co.jp/services/payment/e_money.html#pitapa
+  - PiTaPa
+  - Tマネー
+  - 交通系電子マネー
+  - クレジットカード
+  - d払い
+  - LINE Pay
+  - PayPay
+  - 楽天Pay
+  - au Pay
+  - J-Coin Pay
+  - ゆうちょPay
+  - メルペイ
+  - pring
+  - スマートコード
+  - Alipay+
+  - We Chat Pay
+  - 銀聯カード
+  - チケットレストラン タッチ
+  - JCBプレモカード
+  - クオカード
+  - ユニー商品券
+  
